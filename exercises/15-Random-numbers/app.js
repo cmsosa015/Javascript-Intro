@@ -8,3 +8,10 @@ function getRandomInt()
 
 
 console.log(getRandomInt());
+
+function generateRandom()
+{
+    return Math.random()
+}
+
+console.log (generateRandom())
